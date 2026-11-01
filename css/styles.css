@@ -425,3 +425,18 @@ footer a:hover, footer a:focus {
     font-size: 22px;
     line-height: 30px;
 }
+
+/*Contact Us page*/
+.contact-section {
+    max-width: 1000px;
+    margin: 40px;
+    padding: 20px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+}
